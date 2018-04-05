@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # Andres Doreste
 # Just a PoC! won't work on Kernels < 3.17
-# Change the download method and don't forget obfuscate the binary (;
+# Change the delivery method and don't forget obfuscate the binary (;
 import ctypes
 import os
 import sys
